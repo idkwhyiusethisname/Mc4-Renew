@@ -1,2 +1,9 @@
 # Mc4-Renew
-Auto Renew Your Mc4 Server eiei 
+---------------------------------------
+
+### ⚙️ How to use 101
+
+* Run: `pip install capsolver && pip install requests`
+* Run: `py autorenew.py`
+
+---------------------------------------
